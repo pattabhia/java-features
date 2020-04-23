@@ -1,4 +1,4 @@
-package com.abhiram;
+package main.java.com.abhiram.lambda;
 
 /**
  * Hello world!
